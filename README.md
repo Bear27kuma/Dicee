@@ -5,7 +5,7 @@ Moreover, Dicee is constructed auto layout!
 
 <br />
 
-<img width="414" alt="screenshot" src="https://user-images.githubusercontent.com/39920490/79582019-2c39e500-8106-11ea-8c12-df06ac29cfce.png">
+<img height="500" alt="screenshot" src="https://user-images.githubusercontent.com/39920490/79582019-2c39e500-8106-11ea-8c12-df06ac29cfce.png">
 
 
 <br />
